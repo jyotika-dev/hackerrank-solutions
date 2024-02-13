@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bc0c350-7c0c-43dc-856b-be26ac93ce71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank-solutions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deleteanode/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/insertingAnode/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseAdoublylinkedist/Solution.java" afterDir="false" />
+    <list default="true" id="5bc0c350-7c0c-43dc-856b-be26ac93ce71" name="Changes" comment="continuous sub-array">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2c2UohKABmrdaj25oAwqjL7FDCC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,20 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,10 +63,87 @@
       <option name="presentableId" value="Default" />
       <updated>1707309346058</updated>
       <workItem from="1707309347131" duration="490000" />
+      <workItem from="1707311100254" duration="627000" />
     </task>
+    <task id="LOCAL-00001" summary="reverse a doubly linked list">
+      <option name="closed" value="true" />
+      <created>1707310346521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707310346521</updated>
+    </task>
+    <task id="LOCAL-00002" summary="insert a node at the head of a linked list">
+      <option name="closed" value="true" />
+      <created>1707310760510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707310760510</updated>
+    </task>
+    <task id="LOCAL-00003" summary="insert a node at the tail of a linked list">
+      <option name="closed" value="true" />
+      <created>1707310770716</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707310770716</updated>
+    </task>
+    <task id="LOCAL-00004" summary="print the elements of a linked list">
+      <option name="closed" value="true" />
+      <created>1707310799696</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707310799696</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rearrange of an array">
+      <option name="closed" value="true" />
+      <created>1707311339201</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707311339201</updated>
+    </task>
+    <task id="LOCAL-00006" summary="gully boy bhot hard question">
+      <option name="closed" value="true" />
+      <created>1707311368565</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707311368565</updated>
+    </task>
+    <task id="LOCAL-00007" summary="delete the node at end of a linked list">
+      <option name="closed" value="true" />
+      <created>1707311416137</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707311416137</updated>
+    </task>
+    <task id="LOCAL-00008" summary="continuous sub-array">
+      <option name="closed" value="true" />
+      <created>1707311437521</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707311437521</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="reverse a doubly linked list" />
+    <MESSAGE value="insert a node at the head of a linked list" />
+    <MESSAGE value="insert a node at the tail of a linked list" />
+    <MESSAGE value="print the elements of a linked list" />
+    <MESSAGE value="rearrange of an array" />
+    <MESSAGE value="gully boy bhot hard question" />
+    <MESSAGE value="delete the node at end of a linked list" />
+    <MESSAGE value="continuous sub-array" />
+    <option name="LAST_COMMIT_MESSAGE" value="continuous sub-array" />
   </component>
 </project>
