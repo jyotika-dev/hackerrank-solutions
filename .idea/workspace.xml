@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bc0c350-7c0c-43dc-856b-be26ac93ce71" name="Changes" comment="continuous sub-array">
+    <list default="true" id="5bc0c350-7c0c-43dc-856b-be26ac93ce71" name="Changes" comment="Maximum Element">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,17 @@
       <updated>1707309346058</updated>
       <workItem from="1707309347131" duration="490000" />
       <workItem from="1707311100254" duration="627000" />
+      <workItem from="1707804436445" duration="772000" />
+      <workItem from="1707809846791" duration="641000" />
+      <workItem from="1707812766453" duration="599000" />
+      <workItem from="1707839553347" duration="2333000" />
+      <workItem from="1708259403638" duration="808000" />
+      <workItem from="1708403804533" duration="19000" />
+      <workItem from="1708419460307" duration="988000" />
+      <workItem from="1708438262811" duration="798000" />
+      <workItem from="1708489887249" duration="24000" />
+      <workItem from="1708513145434" duration="1313000" />
+      <workItem from="1708515126811" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="reverse a doubly linked list">
       <option name="closed" value="true" />
@@ -129,11 +140,78 @@
       <option name="project" value="LOCAL" />
       <updated>1707311437521</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="int xyz">
+      <option name="closed" value="true" />
+      <created>1707804526681</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707804526681</updated>
+    </task>
+    <task id="LOCAL-00010" summary="reverse a linked list">
+      <option name="closed" value="true" />
+      <created>1707840780780</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707840780780</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Compare two linked lists">
+      <option name="closed" value="true" />
+      <created>1708438406668</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708438406668</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge two sorted linked lists">
+      <option name="closed" value="true" />
+      <created>1708438428662</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708438428662</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Balanced Brackets">
+      <option name="closed" value="true" />
+      <created>1708514961571</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708514961571</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Equal Stacks">
+      <option name="closed" value="true" />
+      <created>1708515294386</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708515294386</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Maximum Element">
+      <option name="closed" value="true" />
+      <created>1708515381732</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1708515381732</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="reverse a doubly linked list" />
@@ -144,6 +222,13 @@
     <MESSAGE value="gully boy bhot hard question" />
     <MESSAGE value="delete the node at end of a linked list" />
     <MESSAGE value="continuous sub-array" />
-    <option name="LAST_COMMIT_MESSAGE" value="continuous sub-array" />
+    <MESSAGE value="int xyz" />
+    <MESSAGE value="reverse a linked list" />
+    <MESSAGE value="Compare two linked lists" />
+    <MESSAGE value="Merge two sorted linked lists" />
+    <MESSAGE value="Balanced Brackets" />
+    <MESSAGE value="Equal Stacks" />
+    <MESSAGE value="Maximum Element" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maximum Element" />
   </component>
 </project>
